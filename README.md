@@ -1,7 +1,7 @@
 # NLP-Project-2---Build-Sentiment-Classification-Application-with-Streamlit
 Build Sentiment Classification Application with Streamlit
 
-Watch YouTube Video Here: https://youtu.be/NXNobaVNidM
+Watch YouTube Video Here: https://youtu.be/YQ5yRGJkyaI
 
 # Build Sentiment Classification Application with Streamlit | Sentiment Analysis Tutorial
 
