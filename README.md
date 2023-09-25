@@ -1,6 +1,8 @@
 # NLP-Project-2---Build-Sentiment-Classification-Application-with-Streamlit
 Build Sentiment Classification Application with Streamlit
 
+Watch YouTube Video Here: https://youtu.be/NXNobaVNidM
+
 # Build Sentiment Classification Application with Streamlit | Sentiment Analysis Tutorial
 
 Welcome to this step-by-step tutorial on building a Sentiment Classification Application using Streamlit! In this tutorial, we'll take you through the entire process, from introducing the basics of Machine Learning to creating a fully functional sentiment analysis application.
